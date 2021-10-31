@@ -28,4 +28,4 @@ Develop a regression model to predict the Fare based on Distance travelled
 
 # Acknowledgements: 
 
--  I found this wonderful FlightFare dataset from [Ath Leaps](https://leapsapp.analyttica.com/)
+-  I found this wonderful **FlightFare** dataset from [Ath Leaps](https://leapsapp.analyttica.com/)
