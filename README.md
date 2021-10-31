@@ -22,7 +22,7 @@ Develop a regression model to predict the Fare based on Distance travelled
 
 > You can use following link to view and comment on the project:
 
-- [20191COM0235_Flight Fare Prediction](https://colab.research.google.com/drive/13NVlNUeI7yvfnWCn34I-dw7YjWpJ8CGB?usp=sharing)
+- [Flight Fare Prediction](https://colab.research.google.com/drive/13NVlNUeI7yvfnWCn34I-dw7YjWpJ8CGB?usp=sharing)
 
 </br>
 
