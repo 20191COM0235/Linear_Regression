@@ -20,7 +20,7 @@ Develop a regression model to predict the Fare based on Distance travelled
 
 # Colab Link:
 
-> You can use following link to view and comment on the project:
+You can use following link to view and comment on the project:
 
 - [Flight Fare Prediction](https://colab.research.google.com/drive/13NVlNUeI7yvfnWCn34I-dw7YjWpJ8CGB?usp=sharing)
 
